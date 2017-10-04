@@ -1,8 +1,6 @@
 <?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+$array = array("2", "false","-1","Массив","0");
+array_push($array, "6,78");
+var_dump($array);
+?>
 
